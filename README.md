@@ -32,7 +32,7 @@ for flow in streamer:
   pass # Your flow processing logic here
 ```
 
-**Note:**
+## Note
 In the current version, the thresholds and handshake type are hardcoded within the plugin. Future versions aim to allow users to define these parameters directly through NFStreamer.
 
 ## License
